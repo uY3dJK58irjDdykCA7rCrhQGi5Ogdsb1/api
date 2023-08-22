@@ -35,7 +35,7 @@
     "X_00110Pwmk3GjZbdokuHLdGfS0YCHuBX" ],
     "version": [ "2.9" ],
     "patch": [ 
-        "Olá",
-        "Oi"
+        "Corrigido problema do combustível ficar abaixo de 49%",
+        "Adicionado permissão para abrir o tablet da policia"
     ]
     }
