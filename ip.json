@@ -4,14 +4,9 @@
         "200.9.154.225",
         "189.79.110.18", 
         "131.196.197.27",
-        "94.174.122.145", 
         "104.234.224.117",
-        "190.102.42.210", 
-        "191.186.59.14", 
-        "181.215.254.251", 
-        "189.127.164.80", 
-        "187.19.222.148",
-        "45.141.214.57"],
+        "45.141.214.57"
+    ],
     "token":[
     "X_0010eb7FyFXfaAwutO0AlOOEmoCoO4p",
     "X_001hU4PdMdg1NpU6us7wQSMRGbPYQdg",
@@ -33,7 +28,8 @@
     "X_001jSY7djK5exOGhZUR9MaiTg3wiEwk",
     "X_001iXPWzRe10PwOd46Ex1Tr1qudBiZj",
     "X_0011fb7w4SZQksd4MQlrLcGU34NShPR",
-    "X_00110Pwmk3GjZbdokuHLdGfS0YCHuBX" ],
+    "X_00110Pwmk3GjZbdokuHLdGfS0YCHuBX" 
+    ],
     "version": [ "2.9.2" ],
     "patch": [ 
         "1: Sistema estabilizado"
