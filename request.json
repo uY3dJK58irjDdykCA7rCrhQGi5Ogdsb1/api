@@ -1,1 +1,12 @@
-
+{
+    "ips":[ 
+        "177.220.179.126"
+    ],
+    "token":[
+    "xxxxxxxxxxxx-xxxxxxxxxxx-xxxxxxxxxxx"
+    ],
+    "version": [ "ALPHA" ],
+    "patch": [ 
+        "NIL"
+    ]
+    }
