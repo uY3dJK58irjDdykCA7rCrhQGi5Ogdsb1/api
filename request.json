@@ -22,7 +22,6 @@
     ],
     "version": [ "1.04" ],
     "patch": [ 
-        "1: Corrigido problema de não comprar as roupas;",
-        "2: Corrigido problema ao criar personagem mulher."
+        "1: Corrigido problema de não salvar as roupas."
     ]
     }
