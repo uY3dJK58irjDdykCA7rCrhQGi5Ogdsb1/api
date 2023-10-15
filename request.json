@@ -22,6 +22,7 @@
     ],
     "version": [ "1.03" ],
     "patch": [ 
-        "1: Corrigido problemas dos Bug's"
+        "1: Corrigido problema de não comprar as roupas;",
+        "2: Corrigido problema ao criar personagem mulher."
     ]
     }
