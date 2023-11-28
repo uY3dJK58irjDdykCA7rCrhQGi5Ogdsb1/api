@@ -22,13 +22,8 @@
     "complexoV3-7jg6q0B4eUHOyDM8ABeB1Ja5nKL7UtPG",
     "complexoV3-w4SMUJEu64skfopWFhM4qqobHxSYRat3"
     ],
-    "version": [ "1.06" ],
+    "version": [ "1.07" ],
     "patch": [ 
-        "1: Corrigido problema de não salvar as roupas no F1;",
-        "2: Corrigido problema de não salvar as roupas ao acessar o tattoos;",
-        "3: Corrigido problema de no spawn;",
-        "4: Corrigido emblemas do revistar;",
-        "5: Adicionado nova interface para os Baus",
-        "6: Adicionado nova interface para o revistar"
+        "Erro ao requisitar ChangeLogs"
     ]
     }
