@@ -24,6 +24,6 @@
     ],
     "version": [ "1.7.1" ],
     "patch": [ 
-        "Erro ao requisitar ChangeLogs"
+        "^1Erro ao requisitar ChangeLogs"
     ]
     }
