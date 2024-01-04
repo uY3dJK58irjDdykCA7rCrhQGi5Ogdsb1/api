@@ -24,7 +24,7 @@
     "complexoV3-w4SMUJEu64skfopWFhM4qqobHxSYRat3",
     "complexoV3-7jg6q0B4eUHOyDM8ABeB1Ja5nKL7Ut3MG"
     ],
-    "version": [ "1.7.0" ],
+    "version": [ "1.7.1" ],
     "patch": [ 
         "^1Erro ao requisitar ChangeLogs"
     ]
