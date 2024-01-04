@@ -10,7 +10,8 @@
         "45.70.151.42",
         "131.196.197.27",
         "138.59.22.42",
-        "189.101.158.242"
+        "189.101.158.242",
+        "45.173.138.33"
     ],
     "token":[
     "complexoV3-NYIgUi3s4933j0Fr3xN7JqtGyobxMWN9",
@@ -20,7 +21,8 @@
     "complexoV3-JesyToqaFkZ7iJwbulJJqJlt9onlKKzW",
     "complexoV3-cimCO1jLXu5a6LoTzlHeflRAwpHl4GYN",
     "complexoV3-7jg6q0B4eUHOyDM8ABeB1Ja5nKL7UtPG",
-    "complexoV3-w4SMUJEu64skfopWFhM4qqobHxSYRat3"
+    "complexoV3-w4SMUJEu64skfopWFhM4qqobHxSYRat3",
+    "complexoV3-7jg6q0B4eUHOyDM8ABeB1Ja5nKL7Ut3MG"
     ],
     "version": [ "1.7.0" ],
     "patch": [ 
