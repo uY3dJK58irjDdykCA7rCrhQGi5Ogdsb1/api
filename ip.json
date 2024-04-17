@@ -11,7 +11,8 @@
         "131.196.197.35",
         "187.89.104.213",
         "181.215.254.213",
-        "177.37.179.106"
+        "177.37.179.106",
+        "189.127.165.178"
     ],
     "token":[
     "X_0010eb7FyFXfaAwutO0AlOOEmoCoO4p",
@@ -37,7 +38,8 @@
     "X_00110Pwmk3GjZbdokuHLdGfS0YCHuBX",
     "X_00110Pwmk3GjZbdokuHLdGfS0YCHuBXAVLR",
     "X_00110Pwmk3GjZbdokuHLdGfS0YCHu32",
-    "X_0011fb7w4SZQksd4MQlrLcGU34N9a9ga"
+    "X_0011fb7w4SZQksd4MQlrLcGU34N9a9ga",
+    "X_00110Pwmk3GjZbdokuHLdGfS0YCHu59"
     ],
     "version": [ "2.9.4" ],
     "patch": [ 
