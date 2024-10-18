@@ -15,7 +15,8 @@
         "177.66.174.54",
         "189.127.165.178",
         "181.215.236.84",
-        "177.17.8.219"
+        "177.17.8.219",
+        "102.165.46.79"
     ],
     "token":[
     "complexoV3-NYIgUi3s4933j0Fr3xN7JqtGyobxMWN9",
@@ -29,7 +30,8 @@
     "complexoV3-7jg6q0B4eUHOyDM8ABeB1Ja5nKL7Ut3MG",
     "complexoV3-00110Pwmk3GjZbdokuHLdGfS0YCHu59",
     "complexoV3-qY2PYioL3iDSXkMgJT87k4kjh7n932hq0",
-    "complexoV3-qY2PYioL3iDSXkMgJT87k4kjhv75m3m057"
+    "complexoV3-qY2PYioL3iDSXkMgJT87k4kjhv75m3m057",
+    "complexoV3-cimCO1jLXu5a6LoTzlHeflRAwpHlj23nsA"
     ],
     "version": [ "1.7.1" ],
     "patch": [ 
